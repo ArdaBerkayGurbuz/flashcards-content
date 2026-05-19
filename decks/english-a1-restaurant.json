@@ -2,8 +2,11 @@
   "id": "english-a1-restaurant",
   "version": 1,
   "name": "İngilizce A1 - Restoran",
-  "description": "Restoran ve yemek için 50 temel İngilizce kelime. Görselli, telaffuzlu ve örnek cümleli.",
-  "language": { "from": "tr", "to": "en" },
+  "description": "Restoran ve yemek için 50 temel İngilizce kelime.",
+  "language": {
+    "from": "tr",
+    "to": "en"
+  },
   "level": "A1",
   "theme": "restaurant",
   "icon": "🍽️",
@@ -16,55 +19,443 @@
   },
   "imageBaseUrl": "https://raw.githubusercontent.com/ArdaBerkayGurbuz/flashcards-content/main/decks/",
   "cards": [
-    { "id": "card_001", "front": "menu", "back": "menü", "pronunciation": "MEN-yu", "example": "The menu is on the table.", "exampleTranslation": "Menü masanın üzerinde.", "image": "menu.jpg" },
-    { "id": "card_002", "front": "waiter", "back": "garson", "pronunciation": "VEY-tır", "example": "The waiter is friendly.", "exampleTranslation": "Garson dostane.", "image": "waiter.jpg" },
-    { "id": "card_003", "front": "table", "back": "masa", "pronunciation": "TEY-bıl", "example": "Our table is by the window.", "exampleTranslation": "Masamız pencere kenarında.", "image": "table.jpg" },
-    { "id": "card_004", "front": "chair", "back": "sandalye", "pronunciation": "çer", "example": "This chair is comfortable.", "exampleTranslation": "Bu sandalye rahat.", "image": "chair.jpg" },
-    { "id": "card_005", "front": "bill", "back": "hesap", "pronunciation": "bil", "example": "Can I have the bill, please?", "exampleTranslation": "Hesabı alabilir miyim lütfen?", "image": "bill.jpg" },
-    { "id": "card_006", "front": "water", "back": "su", "pronunciation": "VA-tır", "example": "I'd like some water, please.", "exampleTranslation": "Biraz su istiyorum lütfen.", "image": "water.jpg" },
-    { "id": "card_007", "front": "coffee", "back": "kahve", "pronunciation": "KA-fi", "example": "I drink coffee every morning.", "exampleTranslation": "Her sabah kahve içerim.", "image": "coffee.jpg" },
-    { "id": "card_008", "front": "tea", "back": "çay", "pronunciation": "ti", "example": "Would you like some tea?", "exampleTranslation": "Çay ister misin?", "image": "tea.jpg" },
-    { "id": "card_009", "front": "bread", "back": "ekmek", "pronunciation": "bred", "example": "The bread is fresh.", "exampleTranslation": "Ekmek taze.", "image": "bread.jpg" },
-    { "id": "card_010", "front": "breakfast", "back": "kahvaltı", "pronunciation": "BREK-fıst", "example": "I have breakfast at 8.", "exampleTranslation": "Saat 8'de kahvaltı yaparım.", "image": "breakfast.jpg" },
-    { "id": "card_011", "front": "lunch", "back": "öğle yemeği", "pronunciation": "lanç", "example": "Let's have lunch together.", "exampleTranslation": "Birlikte öğle yemeği yiyelim.", "image": "lunch.jpg" },
-    { "id": "card_012", "front": "dinner", "back": "akşam yemeği", "pronunciation": "DİN-ır", "example": "Dinner is ready.", "exampleTranslation": "Akşam yemeği hazır.", "image": "dinner.jpg" },
-    { "id": "card_013", "front": "food", "back": "yemek", "pronunciation": "fud", "example": "The food is delicious.", "exampleTranslation": "Yemek lezzetli.", "image": "food.jpg" },
-    { "id": "card_014", "front": "drink", "back": "içecek", "pronunciation": "drink", "example": "What would you like to drink?", "exampleTranslation": "Ne içmek istersiniz?", "image": "drink.jpg" },
-    { "id": "card_015", "front": "plate", "back": "tabak", "pronunciation": "pleyt", "example": "The plate is empty.", "exampleTranslation": "Tabak boş.", "image": "plate.jpg" },
-    { "id": "card_016", "front": "glass", "back": "bardak", "pronunciation": "gles", "example": "I need a glass of water.", "exampleTranslation": "Bir bardak suya ihtiyacım var.", "image": "glass.jpg" },
-    { "id": "card_017", "front": "cup", "back": "fincan", "pronunciation": "kap", "example": "This cup is hot.", "exampleTranslation": "Bu fincan sıcak.", "image": "cup.jpg" },
-    { "id": "card_018", "front": "bowl", "back": "kase", "pronunciation": "bol", "example": "The soup is in the bowl.", "exampleTranslation": "Çorba kasede.", "image": "bowl.jpg" },
-    { "id": "card_019", "front": "fork", "back": "çatal", "pronunciation": "fork", "example": "I eat pasta with a fork.", "exampleTranslation": "Makarnayı çatalla yerim.", "image": "fork.jpg" },
-    { "id": "card_020", "front": "knife", "back": "bıçak", "pronunciation": "nayf", "example": "The knife is sharp.", "exampleTranslation": "Bıçak keskin.", "image": "knife.jpg" },
-    { "id": "card_021", "front": "spoon", "back": "kaşık", "pronunciation": "spun", "example": "I eat soup with a spoon.", "exampleTranslation": "Çorbayı kaşıkla içerim.", "image": "spoon.jpg" },
-    { "id": "card_022", "front": "napkin", "back": "peçete", "pronunciation": "NEP-kin", "example": "May I have a napkin?", "exampleTranslation": "Bir peçete alabilir miyim?", "image": "napkin.jpg" },
-    { "id": "card_023", "front": "soup", "back": "çorba", "pronunciation": "sup", "example": "The soup is hot.", "exampleTranslation": "Çorba sıcak.", "image": "soup.jpg" },
-    { "id": "card_024", "front": "salad", "back": "salata", "pronunciation": "SE-lıd", "example": "I'd like a green salad.", "exampleTranslation": "Yeşil salata istiyorum.", "image": "salad.jpg" },
-    { "id": "card_025", "front": "rice", "back": "pirinç", "pronunciation": "rays", "example": "I eat rice every day.", "exampleTranslation": "Her gün pirinç yerim.", "image": "rice.jpg" },
-    { "id": "card_026", "front": "pasta", "back": "makarna", "pronunciation": "PAS-ta", "example": "The pasta is delicious.", "exampleTranslation": "Makarna lezzetli.", "image": "pasta.jpg" },
-    { "id": "card_027", "front": "pizza", "back": "pizza", "pronunciation": "PİT-sa", "example": "We're having pizza tonight.", "exampleTranslation": "Bu akşam pizza yiyoruz.", "image": "pizza.jpg" },
-    { "id": "card_028", "front": "chicken", "back": "tavuk", "pronunciation": "ÇİK-ın", "example": "I'll have the chicken, please.", "exampleTranslation": "Tavuk alacağım lütfen.", "image": "chicken.jpg" },
-    { "id": "card_029", "front": "fish", "back": "balık", "pronunciation": "fiş", "example": "The fish is fresh.", "exampleTranslation": "Balık taze.", "image": "fish.jpg" },
-    { "id": "card_030", "front": "meat", "back": "et", "pronunciation": "mit", "example": "I don't eat meat.", "exampleTranslation": "Et yemem.", "image": "meat.jpg" },
-    { "id": "card_031", "front": "cheese", "back": "peynir", "pronunciation": "çiz", "example": "I love cheese.", "exampleTranslation": "Peyniri çok severim.", "image": "cheese.jpg" },
-    { "id": "card_032", "front": "egg", "back": "yumurta", "pronunciation": "eg", "example": "I want one egg, please.", "exampleTranslation": "Bir yumurta istiyorum lütfen.", "image": "egg.jpg" },
-    { "id": "card_033", "front": "apple", "back": "elma", "pronunciation": "E-pıl", "example": "An apple a day is healthy.", "exampleTranslation": "Günde bir elma sağlıklıdır.", "image": "apple.jpg" },
-    { "id": "card_034", "front": "fruit", "back": "meyve", "pronunciation": "frut", "example": "I eat fruit every day.", "exampleTranslation": "Her gün meyve yerim.", "image": "fruit.jpg" },
-    { "id": "card_035", "front": "vegetable", "back": "sebze", "pronunciation": "VEC-tı-bıl", "example": "Vegetables are healthy.", "exampleTranslation": "Sebzeler sağlıklıdır.", "image": "vegetable.jpg" },
-    { "id": "card_036", "front": "sugar", "back": "şeker", "pronunciation": "ŞU-gır", "example": "No sugar in my coffee, please.", "exampleTranslation": "Kahveme şeker yok lütfen.", "image": "sugar.jpg" },
-    { "id": "card_037", "front": "salt", "back": "tuz", "pronunciation": "solt", "example": "Please pass the salt.", "exampleTranslation": "Tuzu verir misin lütfen.", "image": "salt.jpg" },
-    { "id": "card_038", "front": "pepper", "back": "biber", "pronunciation": "PE-pır", "example": "I'd like more pepper.", "exampleTranslation": "Biraz daha biber istiyorum.", "image": "pepper.jpg" },
-    { "id": "card_039", "front": "hot", "back": "sıcak", "pronunciation": "hat", "example": "The coffee is too hot.", "exampleTranslation": "Kahve çok sıcak.", "image": "hot.jpg" },
-    { "id": "card_040", "front": "cold", "back": "soğuk", "pronunciation": "kold", "example": "The water is cold.", "exampleTranslation": "Su soğuk.", "image": "cold.jpg" },
-    { "id": "card_041", "front": "delicious", "back": "lezzetli", "pronunciation": "di-Lİ-şıs", "example": "This food is delicious.", "exampleTranslation": "Bu yemek lezzetli.", "image": "delicious.jpg" },
-    { "id": "card_042", "front": "hungry", "back": "aç", "pronunciation": "HANG-ri", "example": "I am very hungry.", "exampleTranslation": "Çok açım.", "image": "hungry.jpg" },
-    { "id": "card_043", "front": "thirsty", "back": "susamış", "pronunciation": "TÖRS-ti", "example": "I'm thirsty, may I have water?", "exampleTranslation": "Susadım, su alabilir miyim?", "image": "thirsty.jpg" },
-    { "id": "card_044", "front": "order", "back": "sipariş vermek", "pronunciation": "OR-dır", "example": "I'd like to order now.", "exampleTranslation": "Şimdi sipariş vermek istiyorum.", "image": "order.jpg" },
-    { "id": "card_045", "front": "eat", "back": "yemek", "pronunciation": "it", "example": "What do you want to eat?", "exampleTranslation": "Ne yemek istiyorsun?", "image": "eat.jpg" },
-    { "id": "card_046", "front": "pay", "back": "ödemek", "pronunciation": "pey", "example": "I will pay the bill.", "exampleTranslation": "Hesabı ben ödeyeceğim.", "image": "pay.jpg" },
-    { "id": "card_047", "front": "please", "back": "lütfen", "pronunciation": "pliz", "example": "Coffee, please.", "exampleTranslation": "Kahve lütfen.", "image": "please.jpg" },
-    { "id": "card_048", "front": "thank you", "back": "teşekkür ederim", "pronunciation": "tenk yu", "example": "Thank you very much.", "exampleTranslation": "Çok teşekkür ederim.", "image": "thank-you.jpg" },
-    { "id": "card_049", "front": "excuse me", "back": "affedersiniz", "pronunciation": "iks-KYUZ mi", "example": "Excuse me, where is the bathroom?", "exampleTranslation": "Affedersiniz, tuvalet nerede?", "image": "excuse-me.jpg" },
-    { "id": "card_050", "front": "restaurant", "back": "restoran", "pronunciation": "RES-tı-rant", "example": "This restaurant is busy.", "exampleTranslation": "Bu restoran kalabalık.", "image": "restaurant.jpg" }
+    {
+      "id": "card_001",
+      "front": "menu",
+      "back": "menü",
+      "pronunciation": "MEN-yu",
+      "example": "The menu is on the table.",
+      "exampleTranslation": "Menü masanın üzerinde.",
+      "image": "menu.jpg"
+    },
+    {
+      "id": "card_002",
+      "front": "waiter",
+      "back": "garson",
+      "pronunciation": "VEY-tır",
+      "example": "The waiter is friendly.",
+      "exampleTranslation": "Garson dostane.",
+      "image": "waiter.jpg"
+    },
+    {
+      "id": "card_003",
+      "front": "table",
+      "back": "masa",
+      "pronunciation": "TEY-bıl",
+      "example": "Our table is by the window.",
+      "exampleTranslation": "Masamız pencere kenarında.",
+      "image": "table.jpg"
+    },
+    {
+      "id": "card_004",
+      "front": "chair",
+      "back": "sandalye",
+      "pronunciation": "çer",
+      "example": "This chair is comfortable.",
+      "exampleTranslation": "Bu sandalye rahat.",
+      "image": "chair.jpg"
+    },
+    {
+      "id": "card_005",
+      "front": "bill",
+      "back": "hesap",
+      "pronunciation": "bil",
+      "example": "Can I have the bill, please?",
+      "exampleTranslation": "Hesabı alabilir miyim lütfen?"
+    },
+    {
+      "id": "card_006",
+      "front": "water",
+      "back": "su",
+      "pronunciation": "VA-tır",
+      "example": "I'd like some water, please.",
+      "exampleTranslation": "Biraz su istiyorum lütfen.",
+      "image": "water.jpg"
+    },
+    {
+      "id": "card_007",
+      "front": "coffee",
+      "back": "kahve",
+      "pronunciation": "KA-fi",
+      "example": "I drink coffee every morning.",
+      "exampleTranslation": "Her sabah kahve içerim.",
+      "image": "coffee.jpg"
+    },
+    {
+      "id": "card_008",
+      "front": "tea",
+      "back": "çay",
+      "pronunciation": "ti",
+      "example": "Would you like some tea?",
+      "exampleTranslation": "Çay ister misin?",
+      "image": "tea.jpg"
+    },
+    {
+      "id": "card_009",
+      "front": "bread",
+      "back": "ekmek",
+      "pronunciation": "bred",
+      "example": "The bread is fresh.",
+      "exampleTranslation": "Ekmek taze.",
+      "image": "bread.jpg"
+    },
+    {
+      "id": "card_010",
+      "front": "breakfast",
+      "back": "kahvaltı",
+      "pronunciation": "BREK-fıst",
+      "example": "I have breakfast at 8.",
+      "exampleTranslation": "Saat 8'de kahvaltı yaparım.",
+      "image": "breakfast.jpg"
+    },
+    {
+      "id": "card_011",
+      "front": "lunch",
+      "back": "öğle yemeği",
+      "pronunciation": "lanç",
+      "example": "Let's have lunch together.",
+      "exampleTranslation": "Birlikte öğle yemeği yiyelim."
+    },
+    {
+      "id": "card_012",
+      "front": "dinner",
+      "back": "akşam yemeği",
+      "pronunciation": "DİN-ır",
+      "example": "Dinner is ready.",
+      "exampleTranslation": "Akşam yemeği hazır."
+    },
+    {
+      "id": "card_013",
+      "front": "food",
+      "back": "yemek",
+      "pronunciation": "fud",
+      "example": "The food is delicious.",
+      "exampleTranslation": "Yemek lezzetli.",
+      "image": "food.jpg"
+    },
+    {
+      "id": "card_014",
+      "front": "drink",
+      "back": "içecek",
+      "pronunciation": "drink",
+      "example": "What would you like to drink?",
+      "exampleTranslation": "Ne içmek istersiniz?",
+      "image": "drink.jpg"
+    },
+    {
+      "id": "card_015",
+      "front": "plate",
+      "back": "tabak",
+      "pronunciation": "pleyt",
+      "example": "The plate is empty.",
+      "exampleTranslation": "Tabak boş.",
+      "image": "plate.jpg"
+    },
+    {
+      "id": "card_016",
+      "front": "glass",
+      "back": "bardak",
+      "pronunciation": "gles",
+      "example": "I need a glass of water.",
+      "exampleTranslation": "Bir bardak suya ihtiyacım var.",
+      "image": "glass.jpg"
+    },
+    {
+      "id": "card_017",
+      "front": "cup",
+      "back": "fincan",
+      "pronunciation": "kap",
+      "example": "This cup is hot.",
+      "exampleTranslation": "Bu fincan sıcak.",
+      "image": "cup.jpg"
+    },
+    {
+      "id": "card_018",
+      "front": "bowl",
+      "back": "kase",
+      "pronunciation": "bol",
+      "example": "The soup is in the bowl.",
+      "exampleTranslation": "Çorba kasede.",
+      "image": "bowl.jpg"
+    },
+    {
+      "id": "card_019",
+      "front": "fork",
+      "back": "çatal",
+      "pronunciation": "fork",
+      "example": "I eat pasta with a fork.",
+      "exampleTranslation": "Makarnayı çatalla yerim.",
+      "image": "fork.jpg"
+    },
+    {
+      "id": "card_020",
+      "front": "knife",
+      "back": "bıçak",
+      "pronunciation": "nayf",
+      "example": "The knife is sharp.",
+      "exampleTranslation": "Bıçak keskin.",
+      "image": "knife.jpg"
+    },
+    {
+      "id": "card_021",
+      "front": "spoon",
+      "back": "kaşık",
+      "pronunciation": "spun",
+      "example": "I eat soup with a spoon.",
+      "exampleTranslation": "Çorbayı kaşıkla içerim.",
+      "image": "spoon.jpg"
+    },
+    {
+      "id": "card_022",
+      "front": "napkin",
+      "back": "peçete",
+      "pronunciation": "NEP-kin",
+      "example": "May I have a napkin?",
+      "exampleTranslation": "Bir peçete alabilir miyim?",
+      "image": "napkin.jpg"
+    },
+    {
+      "id": "card_023",
+      "front": "soup",
+      "back": "çorba",
+      "pronunciation": "sup",
+      "example": "The soup is hot.",
+      "exampleTranslation": "Çorba sıcak.",
+      "image": "soup.jpg"
+    },
+    {
+      "id": "card_024",
+      "front": "salad",
+      "back": "salata",
+      "pronunciation": "SE-lıd",
+      "example": "I'd like a green salad.",
+      "exampleTranslation": "Yeşil salata istiyorum.",
+      "image": "salad.jpg"
+    },
+    {
+      "id": "card_025",
+      "front": "rice",
+      "back": "pirinç",
+      "pronunciation": "rays",
+      "example": "I eat rice every day.",
+      "exampleTranslation": "Her gün pirinç yerim.",
+      "image": "rice.jpg"
+    },
+    {
+      "id": "card_026",
+      "front": "pasta",
+      "back": "makarna",
+      "pronunciation": "PAS-ta",
+      "example": "The pasta is delicious.",
+      "exampleTranslation": "Makarna lezzetli.",
+      "image": "pasta.jpg"
+    },
+    {
+      "id": "card_027",
+      "front": "pizza",
+      "back": "pizza",
+      "pronunciation": "PİT-sa",
+      "example": "We're having pizza tonight.",
+      "exampleTranslation": "Bu akşam pizza yiyoruz.",
+      "image": "pizza.jpg"
+    },
+    {
+      "id": "card_028",
+      "front": "chicken",
+      "back": "tavuk",
+      "pronunciation": "ÇİK-ın",
+      "example": "I'll have the chicken, please.",
+      "exampleTranslation": "Tavuk alacağım lütfen.",
+      "image": "chicken.jpg"
+    },
+    {
+      "id": "card_029",
+      "front": "fish",
+      "back": "balık",
+      "pronunciation": "fiş",
+      "example": "The fish is fresh.",
+      "exampleTranslation": "Balık taze.",
+      "image": "fish.jpg"
+    },
+    {
+      "id": "card_030",
+      "front": "meat",
+      "back": "et",
+      "pronunciation": "mit",
+      "example": "I don't eat meat.",
+      "exampleTranslation": "Et yemem.",
+      "image": "meat.jpg"
+    },
+    {
+      "id": "card_031",
+      "front": "cheese",
+      "back": "peynir",
+      "pronunciation": "çiz",
+      "example": "I love cheese.",
+      "exampleTranslation": "Peyniri çok severim.",
+      "image": "cheese.jpg"
+    },
+    {
+      "id": "card_032",
+      "front": "egg",
+      "back": "yumurta",
+      "pronunciation": "eg",
+      "example": "I want one egg, please.",
+      "exampleTranslation": "Bir yumurta istiyorum lütfen.",
+      "image": "egg.jpg"
+    },
+    {
+      "id": "card_033",
+      "front": "apple",
+      "back": "elma",
+      "pronunciation": "E-pıl",
+      "example": "An apple a day is healthy.",
+      "exampleTranslation": "Günde bir elma sağlıklıdır.",
+      "image": "apple.jpg"
+    },
+    {
+      "id": "card_034",
+      "front": "fruit",
+      "back": "meyve",
+      "pronunciation": "frut",
+      "example": "I eat fruit every day.",
+      "exampleTranslation": "Her gün meyve yerim.",
+      "image": "fruit.jpg"
+    },
+    {
+      "id": "card_035",
+      "front": "vegetable",
+      "back": "sebze",
+      "pronunciation": "VEC-tı-bıl",
+      "example": "Vegetables are healthy.",
+      "exampleTranslation": "Sebzeler sağlıklıdır.",
+      "image": "vegetable.jpg"
+    },
+    {
+      "id": "card_036",
+      "front": "sugar",
+      "back": "şeker",
+      "pronunciation": "ŞU-gır",
+      "example": "No sugar in my coffee, please.",
+      "exampleTranslation": "Kahveme şeker yok lütfen.",
+      "image": "sugar.jpg"
+    },
+    {
+      "id": "card_037",
+      "front": "salt",
+      "back": "tuz",
+      "pronunciation": "solt",
+      "example": "Please pass the salt.",
+      "exampleTranslation": "Tuzu verir misin lütfen.",
+      "image": "salt.jpg"
+    },
+    {
+      "id": "card_038",
+      "front": "pepper",
+      "back": "biber",
+      "pronunciation": "PE-pır",
+      "example": "I'd like more pepper.",
+      "exampleTranslation": "Biraz daha biber istiyorum.",
+      "image": "pepper.jpg"
+    },
+    {
+      "id": "card_039",
+      "front": "hot",
+      "back": "sıcak",
+      "pronunciation": "hat",
+      "example": "The coffee is too hot.",
+      "exampleTranslation": "Kahve çok sıcak."
+    },
+    {
+      "id": "card_040",
+      "front": "cold",
+      "back": "soğuk",
+      "pronunciation": "kold",
+      "example": "The water is cold.",
+      "exampleTranslation": "Su soğuk.",
+      "image": "cold.jpg"
+    },
+    {
+      "id": "card_041",
+      "front": "delicious",
+      "back": "lezzetli",
+      "pronunciation": "di-Lİ-şıs",
+      "example": "This food is delicious.",
+      "exampleTranslation": "Bu yemek lezzetli."
+    },
+    {
+      "id": "card_042",
+      "front": "hungry",
+      "back": "aç",
+      "pronunciation": "HANG-ri",
+      "example": "I am very hungry.",
+      "exampleTranslation": "Çok açım."
+    },
+    {
+      "id": "card_043",
+      "front": "thirsty",
+      "back": "susamış",
+      "pronunciation": "TÖRS-ti",
+      "example": "I'm thirsty, may I have water?",
+      "exampleTranslation": "Susadım, su alabilir miyim?",
+      "image": "thirsty.jpg"
+    },
+    {
+      "id": "card_044",
+      "front": "order",
+      "back": "sipariş vermek",
+      "pronunciation": "OR-dır",
+      "example": "I'd like to order now.",
+      "exampleTranslation": "Şimdi sipariş vermek istiyorum."
+    },
+    {
+      "id": "card_045",
+      "front": "eat",
+      "back": "yemek",
+      "pronunciation": "it",
+      "example": "What do you want to eat?",
+      "exampleTranslation": "Ne yemek istiyorsun?"
+    },
+    {
+      "id": "card_046",
+      "front": "pay",
+      "back": "ödemek",
+      "pronunciation": "pey",
+      "example": "I will pay the bill.",
+      "exampleTranslation": "Hesabı ben ödeyeceğim.",
+      "image": "pay.jpg"
+    },
+    {
+      "id": "card_047",
+      "front": "please",
+      "back": "lütfen",
+      "pronunciation": "pliz",
+      "example": "Coffee, please.",
+      "exampleTranslation": "Kahve lütfen."
+    },
+    {
+      "id": "card_048",
+      "front": "thank you",
+      "back": "teşekkür ederim",
+      "pronunciation": "tenk yu",
+      "example": "Thank you very much.",
+      "exampleTranslation": "Çok teşekkür ederim."
+    },
+    {
+      "id": "card_049",
+      "front": "excuse me",
+      "back": "affedersiniz",
+      "pronunciation": "iks-KYUZ mi",
+      "example": "Excuse me, where is the bathroom?",
+      "exampleTranslation": "Affedersiniz, tuvalet nerede?"
+    },
+    {
+      "id": "card_050",
+      "front": "restaurant",
+      "back": "restoran",
+      "pronunciation": "RES-tı-rant",
+      "example": "This restaurant is busy.",
+      "exampleTranslation": "Bu restoran kalabalık."
+    }
   ]
 }
